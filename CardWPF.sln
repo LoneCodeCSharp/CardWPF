@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardWPF", "CardWPF\CardWPF.csproj", "{CA1754D9-1D32-4CE4-8A29-F16ABE867F69}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA1754D9-1D32-4CE4-8A29-F16ABE867F69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA1754D9-1D32-4CE4-8A29-F16ABE867F69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA1754D9-1D32-4CE4-8A29-F16ABE867F69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA1754D9-1D32-4CE4-8A29-F16ABE867F69}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C72D8D40-3B13-4A07-BE78-B81A50F68A64}
+	EndGlobalSection
+EndGlobal
